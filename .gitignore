@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+reference/bleedingtooth/exploit
+*.core
+core
+*.pages
+*.zip
+details.yml
