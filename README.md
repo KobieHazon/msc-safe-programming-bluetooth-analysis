@@ -36,8 +36,6 @@ The historical upstream environment was x86-64 Ubuntu 20.04.1 with Linux `5.4.0-
 
 ## Reference source
 
-The retained file matches the upstream Git blob `460868a21554c0e1a0e60e10a9a5fed8e1891297` without changes. Its original author credit is preserved.
-
 - [Google Security Research: BleedingTooth](https://github.com/google/security-research/tree/master/pocs/linux/bleedingtooth)
 - [Upstream exploit source](https://github.com/google/security-research/blob/master/pocs/linux/bleedingtooth/exploit.c)
 - [Upstream technical write-up](https://github.com/google/security-research/blob/master/pocs/linux/bleedingtooth/writeup.md)
